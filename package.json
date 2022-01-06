@@ -1,0 +1,23 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katereclark/cse341.git"
+  },
+  "author": "Kate Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katereclark/cse341/issues"
+  },
+  "homepage": "https://github.com/katereclark/cse341#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
