@@ -92,9 +92,10 @@ main {
     font: inherit;
     border: 1px solid #c7601b;
     color: #c7601b;
-    background: white;
+    font-weight: bold;
     border-radius: 3px;
     cursor: pointer;
+    background-color: #ffdbc3;
   }
   
   .btn:hover,

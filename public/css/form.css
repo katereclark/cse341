@@ -17,6 +17,8 @@ form {
     border: 1px solid #c7601b;
     font: inherit;
     border-radius: 2px;
+    padding: 0.25rem;
+    margin-bottom: 1rem;
 }
 
 button {
@@ -25,9 +27,11 @@ button {
     color: #c7601b;
     border-radius: 3px;
     cursor: pointer;
+    background-color: #ffdbc3;
+    font-weight: bold;
 }
 
 button:hover, button:active {
-    background-color: black;
+    background-color: #c7601b;
     color: white;
 }
