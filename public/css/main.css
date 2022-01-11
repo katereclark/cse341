@@ -6,11 +6,13 @@ body {
 
 header {
     display: flex;
-    width: 100%;
-    height: 3.5rem;
     background-color: #c7601b;
     padding: 0 1.5rem;
     color: white;
+}
+
+h1 {
+  margin: 1rem 0 0;
 }
 
 nav {
@@ -55,6 +57,8 @@ main {
   
   .card {
     box-shadow: 0 2px 8px #00000042;
+    text-align: center;
+    margin: 1rem;
   }
   
   .card_header,
@@ -69,12 +73,9 @@ main {
     margin: 0;
   }
   
-  .card_image {
-    width: 100%;
-  }
-  
   .card_image img {
     max-width: 100%;
+    margin: 1rem;
   }
   
   .card_actions {
